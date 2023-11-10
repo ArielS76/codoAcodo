@@ -66,7 +66,7 @@ i.fa-solid.fa-user:hover{
 
 section.about{
     margin-left: 0%;
-    background-image: url(assets/img/ba1.jpg);
+    
     background-size: 200%;
     background-repeat: no-repeat;
     
@@ -91,7 +91,7 @@ section.pro{
 }
 section.experiencia{
     margin-left: 0%;
-    background-image:  url(/assets/img/Horizon.jpg);
+   
     background-size: 100%;
     background-repeat: no-repeat;
     
@@ -108,7 +108,7 @@ section.skills{
    
 }
 header.banner{
-    background-image: url(/assets/img/ba1.jpg);
+    background-image: url(assets/img/ba1.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
     padding-bottom: 10%;
